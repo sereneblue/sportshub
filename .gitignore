@@ -1,0 +1,5 @@
+build/
+3dslink/
+*.3dsx
+*.elf
+*.smdh
